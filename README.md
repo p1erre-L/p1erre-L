@@ -31,4 +31,5 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 - [Portfolio](https://pierrelam.fr/)
 - [LinkedIn](https://www.linkedin.com/in/pierre-lam-graphic-designer/)
 - [Email](pierre.lam.graphist@gmail.com)
+
 Feel free to explore my repositories, and let's connect! I'm open to collaborations and always excited to learn and share.
