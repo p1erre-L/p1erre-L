@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Pierre LAM
+# Hola! 👋 I'm Pierre LAM
 Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designer based in Paris, with a keen interest in crafting engaging and user-friendly digital experiences.
 
 ## About Me
