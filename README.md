@@ -27,6 +27,10 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 - **First Year of Architecture Degree:** ENSAPB (2015-2016)
 ## Current Learning
 - 🚀 **Full Stack Open Program:** Actively engaged in the Full Stack Open program to further enhance my skills.
+## Projects
+- **[Heavent](https://www.heavent-paris.cyou/):** this project aim to help Parisians find an interesting cultural event at the last minute. I contributed to the overall Front-End, and some part of the Back-End for this project (and I was the Art Director / UX Designer)
+- **[Julie Péron's Portfolio](https://www.julieperon.com/):** I was the fullstack developper for this React project.
+- **[My Portfolio](https://pierrelam.fr/):** this was a solo project from the Design to the developpment to expose my Graphic Design Projects.
 ## Let's Connect!
 - [Portfolio](https://pierrelam.fr/)
 - [LinkedIn](https://www.linkedin.com/in/pierre-lam-graphic-designer/)
