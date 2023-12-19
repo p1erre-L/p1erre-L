@@ -37,14 +37,14 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 - Back-End Development (Partial)
 - Art Direction and UX Design
 
-###[Julie Péron's Portfolio](https://www.julieperon.com/)
+### [Julie Péron's Portfolio](https://www.julieperon.com/)
 
 **Description:** A React project showcasing Julie Péron's portfolio. I served as the full-stack developer for this project, bringing the design to life with comprehensive development.
 
 **Contribution:**
 - Full-Stack Development
 
-###[My Portfolio](https://pierrelam.fr/):### this was a solo project from the Design to the developpment to expose my Graphic Design Projects.
+### [My Portfolio](https://pierrelam.fr/)
 
 **Description:** A solo project where I took charge from design to development, creating an online space to showcase my graphic design projects.
 
