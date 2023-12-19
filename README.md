@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designer based in Paris, with a keen interest in crafting engaging and user-friendly digital experiences.
 
 ## About Me
-- 💻 **Current Role:** Webdesigner Freelance at Maddyness - Média Numérique
+- 💻 **Current Role:** UI/UX Designer Freelance
 - 🚀 **Recent Graduate:** Completed training at Le Wagon, specializing in Full Stack Web Development
 - 🌱 **Current Learning:** Actively participating in the Full Stack Open program to deepen my skills
 - 🎨 **Design Expertise:** UI/UX Designer with a focus on creating unique and impactful visual identities
