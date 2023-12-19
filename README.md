@@ -25,8 +25,6 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 - **BTS Design Graphique:** Multimedia Option - LISAA (2017-2019)
 - **MANAA:** LISAA (2016-2017)
 - **First Year of Architecture Degree:** ENSAPB (2015-2016)
-## Current Learning
-- 🚀 **Full Stack Open Program:** Actively engaged in the Full Stack Open program to further enhance my skills.
 ## Projects
 ### [Heavent](https://www.heavent-paris.cyou/)
 
