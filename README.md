@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 - 🌐 **Languages:** Fluent in HTML, SCSS, JavaScript, Node.js, React, and Ruby on Rails
 - 🎓 **Education:** Master in Digital Art Direction with a specialization in UX Design (LISAA)
 ## Professional Experience
-- 💊 **VMed - Web Agency:** UX Designer Freelance, designed through their agency the new UX for the **Pfizer** homepage.
-- 🖌️ **Maddyness - Digital Media:** Webdesigner Freelance, contributing to the development and production of visual identities for climate-related conferences.
+- 💊 **VMed - Web Agency:** UX Designer Freelance, designing through their agency the new UX for the **Pfizer** homepage.
+- 🖌️ **Maddyness - Digital Media:** Webdesigner Freelance, contributed to the development and production of visual identities for climate-related conferences.
 - 🎨 **Maartin - Graphic Design Agency:** Graphic Designer Freelance, produced client presentations and contributed to the overall design strategy.
 - 🍇 **La Cave du Moros - Wine Seller:** Webdesigner Freelance, created multimedia content, including packshots, adhering to the wine industry's visual standards.
 - 🌍 **Peaks4All - Swiss Refugee Association:** Graphic Designer Freelance, crafted the complete visual identity, from logo design to Instagram presence.
