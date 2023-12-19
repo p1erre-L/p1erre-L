@@ -28,9 +28,30 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 ## Current Learning
 - 🚀 **Full Stack Open Program:** Actively engaged in the Full Stack Open program to further enhance my skills.
 ## Projects
-- **[Heavent](https://www.heavent-paris.cyou/):** this project aim to help Parisians find an interesting cultural event at the last minute. I contributed to the overall Front-End, and some part of the Back-End for this project (and I was the Art Director / UX Designer)
-- **[Julie Péron's Portfolio](https://www.julieperon.com/):** I was the fullstack developper for this React project.
-- **[My Portfolio](https://pierrelam.fr/):** this was a solo project from the Design to the developpment to expose my Graphic Design Projects.
+### [Heavent](https://www.heavent-paris.cyou/)
+
+**Description:** Heavent is designed to help Parisians discover interesting cultural events at the last minute. As the Art Director and UX Designer, I led the design process and contributed to both the Front-End and some parts of the Back-End.
+
+**Contribution:**
+- Front-End Development
+- Back-End Development (Partial)
+- Art Direction and UX Design
+
+###[Julie Péron's Portfolio](https://www.julieperon.com/)
+
+**Description:** A React project showcasing Julie Péron's portfolio. I served as the full-stack developer for this project, bringing the design to life with comprehensive development.
+
+**Contribution:**
+- Full-Stack Development
+
+###[My Portfolio](https://pierrelam.fr/):### this was a solo project from the Design to the developpment to expose my Graphic Design Projects.
+
+**Description:** A solo project where I took charge from design to development, creating an online space to showcase my graphic design projects.
+
+**Contribution:**
+- Graphic Design
+- Full-Stack Development
+
 ## Let's Connect!
 - [Portfolio](https://pierrelam.fr/)
 - [LinkedIn](https://www.linkedin.com/in/pierre-lam-graphic-designer/)
