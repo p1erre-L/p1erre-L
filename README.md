@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 ## Projects
 ### [Heavent](https://www.heavent-paris.cyou/)
 
-**Description:** Heavent is designed to help Parisians discover interesting cultural events at the last minute. As the Art Director and UX Designer, I led the design process and contributed to both the Front-End and some parts of the Back-End.
+Heavent is designed to help Parisians discover interesting cultural events at the last minute. As the Art Director and UX Designer, I led the design process and contributed to both the Front-End and some parts of the Back-End.
 
 **Contribution:**
 - Front-End Development
@@ -39,14 +39,14 @@ Welcome to my GitHub profile! I'm a passionate Web Developer and Graphic Designe
 
 ### [Julie Péron's Portfolio](https://www.julieperon.com/)
 
-**Description:** A React project showcasing Julie Péron's portfolio. I served as the full-stack developer for this project, bringing the design to life with comprehensive development.
+A React project showcasing Julie Péron's portfolio. I served as the full-stack developer for this project, bringing the design to life with comprehensive development.
 
 **Contribution:**
 - Full-Stack Development
 
 ### [My Portfolio](https://pierrelam.fr/)
 
-**Description:** A solo project where I took charge from design to development, creating an online space to showcase my graphic design projects.
+A solo project where I took charge from design to development, creating an online space to showcase my graphic design projects.
 
 **Contribution:**
 - Graphic Design
